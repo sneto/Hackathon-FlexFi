@@ -1,0 +1,11 @@
+App Infos:
+    - Client ID: 297000721271-hp04ce1klqt5bg6t45s98jfvogqvs2dh.apps.googleusercontent.com
+    - Secret key: OB-Zp3BX_OEGpeAMUT3eJuOy
+
+Prerequisites:
+
+1. Python 3.4.4
+
+Instalation info:
+1. Run "pip install -r requirements.txt" in the project root
+2. Run the project using: python main.py
